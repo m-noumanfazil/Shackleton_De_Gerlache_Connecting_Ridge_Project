@@ -1,0 +1,24 @@
+{
+  "dem_file": "enhanced_dem.tif",
+  "rows": 473,
+  "cols": 473,
+  "pixel_size_meters": 0.625,
+  "total_width_meters": 295.0,
+  "total_height_meters": 295.0,
+  "elevation_min_meters": 1947.7813720703125,
+  "elevation_max_meters": 1959.5377197265625,
+  "elevation_relief_meters": 11.75634765625,
+  "subtracted_z_offset_meters": 1947.7813720703125,
+  "x_center_offset_meters": 147.5,
+  "y_center_offset_meters": 147.5,
+  "bounds": {
+    "x_min": -147.5,
+    "x_max": 147.5,
+    "y_min": -147.5,
+    "y_max": 147.5,
+    "z_min": 0.0,
+    "z_max": 11.75634765625
+  },
+  "vertex_count": 223729,
+  "triangle_count": 445568
+}

@@ -1,0 +1,6 @@
+# Material definition for Dominus terrain
+newmtl regolith
+Ka 0.000000 0.000000 0.000000
+Kd 0.100000 0.100000 0.100000
+Ks 0.000000 0.000000 0.000000
+map_Kd ../textures/regolith_dark_albedo.png
